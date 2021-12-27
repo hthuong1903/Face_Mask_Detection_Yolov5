@@ -1,0 +1,46 @@
+body{
+    font-family: 'Open Sans',Helvetica,Arial,sans-serif;
+    font-size: 16px;
+}
+.header-right{
+     width: 270px;
+    font-size: 30px;
+    height: auto;
+    background-color: #303030;
+    margin: 0;
+    padding: 7px 15px;
+    margin-left:20px;
+}
+.header-right h4{
+    font-family: 'Times New Roman',Helvetica,Arial,sans-serif;
+    font-size: 10px;
+    line-height: 38px;
+    color: #ffffff;
+    margin: 0;
+}
+.social{   
+    width: 300px;
+    height: auto;
+    background-color: rgba(170, 64, 67, 0.4);
+    margin-left:20px;
+}
+.social ul{
+    margin: 0;
+    list-style: none;
+    padding: 15px 15px;
+    
+}
+.social ul li{
+    line-height: 22px;
+    display: flex;
+     margin-right: 30px;
+     margin-left:20px;
+}
+img{
+    margin-top: 2px;
+    height: 16px;
+    width: 16px;
+}
+.social ul li a{
+    color: #ffffff;
+}
